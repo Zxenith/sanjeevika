@@ -31,7 +31,7 @@ This project is a Flask-based backend developed for a Postman API Hackathon host
 
 ### Prerequisites
 - Python 3.8+
-- Firebase Admin SDK Key
+- Atlas
 - Postman (optional for API testing)
 
 ### Environment Variables
@@ -47,9 +47,5 @@ This project is a Flask-based backend developed for a Postman API Hackathon host
 2. Install dependencies:
    - pip install -r requirements.txt
 
-3. Set environment variables:
-   export FIREBASE_KEY=<path-to-firebase-key>
-   export APP_KEY=<your-app-secret-key>
-
-4. Start the server:
+3. Start the server:
    python app.py
