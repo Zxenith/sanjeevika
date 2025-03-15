@@ -1,6 +1,6 @@
 # HealthAPI Backend
 
-This project is a Flask-based backend developed for a Postman API Hackathon hosted by BITS Pilani. It is a healthcare management system that leverages Firebase for data storage and JWT for authentication. The application supports functionalities like user authentication, hospital registration, appointment scheduling, and management of healthcare records.
+This project is a Flask-based backend. It is a healthcare management system that leverages Firebase for data storage and JWT for authentication. The application supports functionalities like user authentication, hospital registration, appointment scheduling, and management of healthcare records.
 
 ---
 
